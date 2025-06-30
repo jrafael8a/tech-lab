@@ -1,1 +1,6 @@
+# Fecha Ultima Modificacion Realizada: 2022-04-07
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 net user administrator /active:yes

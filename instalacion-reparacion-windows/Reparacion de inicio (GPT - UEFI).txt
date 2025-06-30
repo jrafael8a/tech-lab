@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2025-05-19
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 1. Asignar una Letra de Unidad a la Partición EFI:
 Selecciona la partición EFI (generalmente es de unos 100-300 MB) con select partition Y 
 

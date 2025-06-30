@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2024-05-08
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 RESET CANON 2100 - ERROR 5B00
 
 - Apagar la Impresora

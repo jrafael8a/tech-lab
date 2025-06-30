@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2025-06-30
+# Fecha Ãšltimo uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 WIN + R
 gpedit.msc
 >Directiva Equipo Local
@@ -11,8 +16,8 @@ gpedit.msc
 	  a una unica sesion de Servicios de Escritorio Remoto
 
 DESHABILITADO:
-Si deshabilita esta configuración de directiva, los usuarios podrán establecer un número ilimitado 
-de conexiones remotas simultáneas mediante Servicios de Escritorio remoto (Sesiones con el mismo usuario)
+Si deshabilita esta configuracin de directiva, los usuarios podrn establecer un nmero ilimitado 
+de conexiones remotas simultneas mediante Servicios de Escritorio remoto (Sesiones con el mismo usuario)
 
 HABILITADO:
 Cada usuario solo podra establecer una unica conexcion de Escritorio Remoto con este equipo

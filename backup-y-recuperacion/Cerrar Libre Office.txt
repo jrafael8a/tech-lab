@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2022-07-28
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 @echo off
 taskkill.exe /F /IM scalc.exe
 taskkill.exe /F /IM soffice.bin

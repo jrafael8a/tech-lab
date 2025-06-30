@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2021-03-01
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 1 - Abir el Simbolo del Sistema con Permisos de Administrador
 2 - Escribir powershell (y pulsa Intro en tu teclado). 
 3 - Luego escribe el comando:

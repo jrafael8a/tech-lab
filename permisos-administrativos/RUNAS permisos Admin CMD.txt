@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2022-08-12
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 runas.exe /user:SOPORTECNICO /savedcred
 
 C:\Windows\System32\runas.exe /user:SOPORTECNICO /savedcred "C:\Program Files (x86)\NetSetMan Pro\netsetman.exe"

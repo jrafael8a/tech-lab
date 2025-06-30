@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2025-06-30
+# Fecha Ãšltimo uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 VERSION ACTUAL 2025:
 
 > Shift + F10
@@ -22,16 +27,16 @@ Oobe\BypassNRO
 
 VERSION ANTERIOR:
 
-- Lo primero de todo será inicial normalmente el proceso de instalación de Windows 11 Home
-- Una vez lleguemos al paso «Vamos a conectarte a una red», presionaremos de manera simultánea las teclas Shift + F10 en nuestro teclado
-- Se abrirá una ventana del símbolo del sistema
+- Lo primero de todo ser inicial normalmente el proceso de instalacin de Windows 11 Home
+- Una vez lleguemos al paso Vamos a conectarte a una red, presionaremos de manera simultnea las teclas Shift + F10 en nuestro teclado
+- Se abrir una ventana del smbolo del sistema
 
-> Escribiremos «taskmgr» y Enter
+> Escribiremos taskmgr y Enter
 > Mas Detalles 
-> Buscamos un proceso llamado «Flujo de conexión de red»
-> «Finalizar tarea»
+> Buscamos un proceso llamado Flujo de conexin de red
+> Finalizar tarea
 
-- Tras esto, tan solo tendremos que regresar a la Configuración de Windows 11 y continuar el proceso normal para agregar una cuenta local
+- Tras esto, tan solo tendremos que regresar a la Configuracin de Windows 11 y continuar el proceso normal para agregar una cuenta local
 
 
 -----------------------------------------------

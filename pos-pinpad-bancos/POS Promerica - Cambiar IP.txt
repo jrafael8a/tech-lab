@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2022-07-04
+# Fecha Ãšltimo uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 Configuraciones IP - POS PROMERICA
 
 > Menu
@@ -11,5 +16,5 @@ Configuraciones IP - POS PROMERICA
     IP: 10.10.xxx.50
     Mask: 255.255.255.0
     Gateway: 10.10.xxx.1
-    DNS: 10.10.xxx.100  ó  8.8.8.8
+    DNS: 10.10.xxx.100    8.8.8.8
 > ENTER

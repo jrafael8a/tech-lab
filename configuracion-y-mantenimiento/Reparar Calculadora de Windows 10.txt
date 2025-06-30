@@ -1,9 +1,14 @@
-Reparar Calculadora de Windows dañada
+# Fecha Ultima Modificacion Realizada: 2022-12-29
+# Fecha Ãšltimo uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
 
-Restablecer la aplicación de la calculadora
-- Windows + I para abrir la Configuración.
-- Aplicaciones > Aplicaciones y características.
-- Encuentra la aplicación Calculadora y haz clic en ella.
+Reparar Calculadora de Windows daada
+
+Restablecer la aplicacin de la calculadora
+- Windows + I para abrir la Configuracin.
+- Aplicaciones > Aplicaciones y caractersticas.
+- Encuentra la aplicacin Calculadora y haz clic en ella.
 - Opciones avanzadas
 - Restablecer
 

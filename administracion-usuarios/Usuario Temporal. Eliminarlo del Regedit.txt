@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2023-09-07
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 >Regedit
 
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList

@@ -1,4 +1,9 @@
-Eliminar la cola de impresión con el comando CMD 
+# Fecha Ultima Modificacion Realizada: 2022-04-07
+# Fecha Ãšltimo uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
+Eliminar la cola de impresin con el comando CMD 
 
 1 - Abrir CMD
 2 - net stop spooler

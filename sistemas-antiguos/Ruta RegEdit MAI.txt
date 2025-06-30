@@ -1,1 +1,6 @@
+# Fecha Ultima Modificacion Realizada: 2021-05-01
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 Equipo\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\VASPORT\MAI

@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2021-06-21
+# Fecha Ãšltimo uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 ==============================================================
 
 Windows XP SP3 - X32 BITS:
@@ -18,7 +23,7 @@ Serial: V2C47-MK7JD-3R89F-D2KXW-VPK3J
 
 ==============================================================
 
-¡IMPORTANTE! Todos los archivos que compartimos en este sitio están comprimidos con la versión final de WinRAR una versión inferior puede provocar errores al extraer el archivo
+IMPORTANTE! Todos los archivos que compartimos en este sitio estn comprimidos con la versin final de WinRAR una versin inferior puede provocar errores al extraer el archivo
 
 
 

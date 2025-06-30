@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2021-11-24
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 icacls "C:\folder" /grant USUARIO:(OI)(CI)F /T
 
 EJEMPLO:

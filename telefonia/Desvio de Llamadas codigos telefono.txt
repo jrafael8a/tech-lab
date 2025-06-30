@@ -1,15 +1,20 @@
-El código que tienes que introducir en tu dispositivo móvil para completar el desvío de llamadas será el siguiente: **XX*Número de teléfono#.
+# Fecha Ultima Modificacion Realizada: 2021-09-30
+# Fecha Ãšltimo uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
 
-61: La llamada se desviará cuando no contestes al teléfono
-62: Si el teléfono está apagado se desviará la llamada
-67: Se desviará las llamadas si el teléfono está ocupado
-21: Desviará todas las llamadas
+El cdigo que tienes que introducir en tu dispositivo mvil para completar el desvo de llamadas ser el siguiente: **XX*Nmero de telfono#.
+
+61: La llamada se desviar cuando no contestes al telfono
+62: Si el telfono est apagado se desviar la llamada
+67: Se desviar las llamadas si el telfono est ocupado
+21: Desviar todas las llamadas
 
 
 
-Desactivar el desvío de llamadas es igual de sencillo que activarle, a continuación te mostraremos los códigos para que puedas quitar la redirección de llamadas de un teléfono a otro.
+Desactivar el desvo de llamadas es igual de sencillo que activarle, a continuacin te mostraremos los cdigos para que puedas quitar la redireccin de llamadas de un telfono a otro.
 
-Con la opción de desviar la llamada cuando no contestes marcar ##61# y pulsar llamar
-Si se desvían las llamadas cuando el teléfono está apagado: ##62# y pulsar llamar
-Desviar las llamadas cuando la línea está ocupada: ##67# y pulsar llamar
-Si has elegido la opción de desviar todas las llamadas: ##21# y pulsa llamar
+Con la opcin de desviar la llamada cuando no contestes marcar ##61# y pulsar llamar
+Si se desvan las llamadas cuando el telfono est apagado: ##62# y pulsar llamar
+Desviar las llamadas cuando la lnea est ocupada: ##67# y pulsar llamar
+Si has elegido la opcin de desviar todas las llamadas: ##21# y pulsa llamar

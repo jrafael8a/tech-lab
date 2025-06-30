@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2021-04-05
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 Equipo\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers
 
 Win+R 

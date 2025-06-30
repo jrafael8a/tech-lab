@@ -1,1 +1,6 @@
+# Fecha Ultima Modificacion Realizada: 2024-07-08
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 robocopy "Desktop\otros" "D:\BKs\pascual.romero\Desktop\otros" /E /DCOPY:T /J /R:0 /ipg:500

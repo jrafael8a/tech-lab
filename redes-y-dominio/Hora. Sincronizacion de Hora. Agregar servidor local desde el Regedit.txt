@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2021-09-29
+# Fecha Ãšltimo uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 Solucionar Problema de sincronizacion de Hora de Windows 10
 
 1 - Sacar la Maquina de dominio
@@ -10,7 +15,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DateTime\Servers
 6 - Modificar el valor de la nueva clave (Clic Derecho > Modificar)
 7 - En "Informacion del Valor" escribir el nombre del servidor (DCB062.grupovasport.local)
 8 - Abrir "Fecha y Hora" (Win + R > timedate.cpl)
-9 - Ir a la pestaña "Hora de Internet"
+9 - Ir a la pestaa "Hora de Internet"
 10 - Activar la casilla Actualizar Hora de Internet
 11 - Seleccionar nuestro servidor (el que recien agregamos al regedit aparecera aqui)
 (Si no aparece, reiniciar la maquina para que se apliquen los cambios realizados en regedit)

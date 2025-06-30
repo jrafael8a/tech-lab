@@ -1,3 +1,8 @@
+# Fecha Ultima Modificacion Realizada: 2022-08-17
+# Fecha Último uso confirmado: ---
+# Caso en que fue aplicado: ---
+# Estado del archivo: ---
+
 > Abrir Internet Explorer
 > Opciones
 > Opciones de Internet
