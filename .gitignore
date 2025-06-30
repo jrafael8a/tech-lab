@@ -1,0 +1,8 @@
+# No ignores archivos útiles
+# (No se excluyen .url, .lnk, .pdf ni .docx)
+
+# Ignorar archivos de sistema o temporales
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store

@@ -1,0 +1,4 @@
+@echo off
+taskkill.exe /F /IM scalc.exe
+taskkill.exe /F /IM soffice.bin
+taskkill.exe /F /IM soffice.exe

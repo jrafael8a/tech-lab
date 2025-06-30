@@ -1,0 +1,50 @@
+---
+
+📝 Para .txt (comentario con #)
+
+# Último uso confirmado: 2025-06-10
+# Caso: Error 5B00 en Canon 2100 – resuelto con reset manual
+# Estado: ✅ Funcional y verificado
+
+---
+
+⚙️ Para .bat o .cmd (comentario con REM)
+
+REM Último uso confirmado: 2025-06-10
+REM Caso: Limpieza de cola de impresión en HP LaserJet
+REM Estado: ✅ Funcional sin reinicio
+
+---
+
+⚡ Para .ps1 (PowerShell, comentario con #)
+
+# Último uso confirmado: 2025-06-10
+# Caso: Agregar PC a dominio desde línea de comandos
+# Estado: ✅ Verificado en Windows Server 2019
+
+---
+
+🧬 Para .reg (comentario con ;)
+
+; Último uso confirmado: 2025-06-10
+; Caso: Restaurar visor de imágenes clásico en Windows 10
+; Estado: ✅ Aún compatible
+
+---
+
+⚠️ Para marcar obsoletos o sin verificar (cualquier tipo)
+
+# ⚠️ No se ha probado desde: 2022-11-01
+# Estado: ❓ Pendiente de revisión. Usar con precaución.
+
+---
+
+🔄 Recomendación de estado
+
+✅ Funcional y probado
+❓ Sin verificar o uso dudoso
+⚠️ Obsoleto o podría no funcionar
+🔧 Requiere ajustes
+🧪 En prueba
+
+---

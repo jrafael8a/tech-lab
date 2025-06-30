@@ -1,0 +1,37 @@
+VERSION ACTUAL 2025:
+
+> Shift + F10
+start MS-CXH:LocalOnly
+
+> Crear una cuenta local
+> Se reiniciara automaticamente luego de crearla y volvera a iniciar ya con la cuenta.
+
+-----------------------------------------------
+
+
+VERSION ANTERIOR:
+
+> Shift + F10
+Oobe\BypassNRO
+
+> Se reinicia automaticamente y ya permite crear cuenta local
+
+
+-----------------------------------------------
+
+
+VERSION ANTERIOR:
+
+- Lo primero de todo será inicial normalmente el proceso de instalación de Windows 11 Home
+- Una vez lleguemos al paso «Vamos a conectarte a una red», presionaremos de manera simultánea las teclas Shift + F10 en nuestro teclado
+- Se abrirá una ventana del símbolo del sistema
+
+> Escribiremos «taskmgr» y Enter
+> Mas Detalles 
+> Buscamos un proceso llamado «Flujo de conexión de red»
+> «Finalizar tarea»
+
+- Tras esto, tan solo tendremos que regresar a la Configuración de Windows 11 y continuar el proceso normal para agregar una cuenta local
+
+
+-----------------------------------------------

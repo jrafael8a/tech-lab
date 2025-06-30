@@ -1,0 +1,44 @@
+Win + R
+SystemPropertiesAdvanced		- Propiedades Avanzadas del Sistema
+OptionalFeatures			- Activar o Desactivar Caracteristicas de Windows
+
+=================================================================================================
+
+ATAJOS AL PANEL DE CONTROL		WIN + R
+https://protegermipc.net/2016/08/30/archivos-cpl/
+
+sysdm.cpl				- Nombre de equipo (opciones de sistema)
+timedate.cpl				- Fecha y hora de sistema
+powercfg.cpl				- Configuración de energía de Windows
+wscui.cpl				- Seguridad y Mantenimiento
+appwiz.cpl				- Desinstalar un Programa
+
+devmgmt.msc		|| hdwwiz.cpl	- Administrador de Dispositivos
+control netconnections	|| ncpa.cpl  	- Conexiones de red
+control mouse		|| main.cpl	- Propiedades del Mouse
+control international 	|| intl.cpl	- Configuración regional y de idioma
+
+control firewall.cpl			- Firewall
+control printers			- Ver Dispositivos e Impresoras
+control schedtasks.cpl			- Programador de Tareas
+control userpasswords2			- Ver Usuarios y Cambiar Contraseñas
+control keyboard			- Propiedades del Teclado
+control admintools			- Herramientas Administrativas (carpeta del menu inicio)
+control wuaucpl.cpl			- Windows Update (Interfas Antigua)
+control /name Microsoft.AutoPlay	- Reproduccion automatica
+control desktop				- Personalizacion (Apariencia)
+desktop					- Abre el Escritorio
+
+=================================================================================================
+
+
+desde CMD
+
+runas /noprofile /user:Administrator cmd
+runas /noprofile /user:grupovasport.local\SOPORTE cmd
+https://www.1000tipsinformaticos.com/2016/11/existe-un-equivalente-de-sudo-en-windows.html
+
+
+
+
+

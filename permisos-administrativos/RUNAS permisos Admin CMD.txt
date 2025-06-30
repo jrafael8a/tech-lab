@@ -1,0 +1,6 @@
+runas.exe /user:SOPORTECNICO /savedcred
+
+C:\Windows\System32\runas.exe /user:SOPORTECNICO /savedcred "C:\Program Files (x86)\NetSetMan Pro\netsetman.exe"
+
+
+

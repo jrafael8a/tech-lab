@@ -1,0 +1,18 @@
+WIN + R
+gpedit.msc
+>Directiva Equipo Local
+ >Configuracion del Equipo
+  >Plantillas Administrativas
+   >Componentes de Windows
+    >Servicios de Escritorio Remoto
+     >Host de sesion de Escritorio Remoto
+      >Conexiones
+	- Limitar a los usuarios de Servicios de Escritorio Remoto 
+	  a una unica sesion de Servicios de Escritorio Remoto
+
+DESHABILITADO:
+Si deshabilita esta configuración de directiva, los usuarios podrán establecer un número ilimitado 
+de conexiones remotas simultáneas mediante Servicios de Escritorio remoto (Sesiones con el mismo usuario)
+
+HABILITADO:
+Cada usuario solo podra establecer una unica conexcion de Escritorio Remoto con este equipo
