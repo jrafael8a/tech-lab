@@ -21,9 +21,9 @@ Automatización de tareas de encendido/apagado/reinicio en servidores Windows, s
 4. ConfigurarApagado: corre cada hora al iniciar el servidor y ejecuta el script configurar-apagado.cmd desde carpeta compartida
 
 ### Script central de configuración (en cada servidor) 
-#### configurar-apagado.cmd:
+##### configurar-apagado.cmd:
 
-`cmd
+```cmd
 @echo off
 REM Activar tarea principal de apagado
 schtasks /change /tn "\Microsoft\AutoOFF" /ENABLE
@@ -33,13 +33,14 @@ schtasks /change /tn "\Microsoft\Apagado_2" /DISABLE
 
 REM Desactivar reinicio automático
 schtasks /change /tn "\Microsoft\AutoReinicio" /DISABLE
-
+```
 
 ### Script para distribuir el archivo a todos los servidores desde oficina:
-#### copiar-script-a-servidores.cmd:
+##### copiar-script-a-servidores.cmd:
 
+```
 @echo off for /f "delims=*" %%a in ('type IPServers.txt') do ( start /MIN xcopy Apagado "\\%%a\SVI$\Apagado" /E /C /K /Y ) 
-
+```
 
 #### IPServers.txt: lista de IPs o nombres de host
 

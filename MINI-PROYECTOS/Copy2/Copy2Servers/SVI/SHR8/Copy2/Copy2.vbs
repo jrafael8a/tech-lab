@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\SHR8\Copy2\NAVkill.bat",0,True
